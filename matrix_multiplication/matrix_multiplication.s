@@ -16,8 +16,6 @@ matrix_B: .word 0, 0, 0, 0
 
 scalar_c: .word 2
 
-suma_de_B: .word 0
-
 msg_matrix_A: .asciz "Matrix A:\n"
 msg_matrix_B: .asciz "Matrix B:\n"
 msg_sum: .asciz "Suma de B: %d\n"
